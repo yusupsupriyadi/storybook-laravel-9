@@ -11,8 +11,9 @@
 
 this is plain new laravel 9, and testing flash storybook install. but have found some issues
 
-First: main.js not found
-https://github.com/yusupsupriyadi/storybook-laravel-9/issues/1
+First: <a href="https://github.com/yusupsupriyadi/storybook-laravel-9/issues/1">main.js not found</a>
 
-Second: Cannot GET /storybook_preview/blast-demo/button
-https://github.com/yusupsupriyadi/storybook-laravel-9/issues/2
+Second: <a href="https://github.com/yusupsupriyadi/storybook-laravel-9/issues/2">Cannot GET /storybook_preview/blast-demo/button</a>
+
+
+
